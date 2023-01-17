@@ -3,7 +3,6 @@ import { View, Text } from "react-native";
 function PrimaryButton({children}){
     return (
         <View>
-            {/* nije svuda isti text */}
             <Text>{children}</Text>
         </View>
     )
