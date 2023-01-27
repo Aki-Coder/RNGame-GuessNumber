@@ -1,7 +1,7 @@
 import { View, Text, Pressable, StyleSheet } from "react-native";
                     //umesto props.children moze i ovako destruktuiranje objekta
 
-import Colors from "../constants/colors";
+import Colors from "../../constants/colors";
 
 function PrimaryButton({children, onPress}){
 
